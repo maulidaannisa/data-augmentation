@@ -1,0 +1,375 @@
+__label__162059005 upset stomache 
+__label__8510008 i can't stand or walk for any lengths of time 
+__label__22253000 so much pain 
+__label__228158008 the heel i couldn't walk on very well 
+__label__278528006 swelling face 
+__label__162059005 upset stomach 
+__label__29542008 uterus starting to have spasms 
+__label__22253000 worst pain i have ever experienced 
+__label__51197009 stomach cramps 
+__label__271681002 stomack pains 
+__label__422587007 stomach queasy 
+__label__405729008 passing blood and clots with stoals 
+__label__25064002 severe headaches 
+__label__162076009 gi bleed 
+__label__386692008 slightly heavier menstrual cycle 
+__label__30989003 sore knee 
+__label__76948002 so much pain 
+__label__431416001 severe mentrual cramps 
+__label__55929007 very irritable 
+__label__162076009 gerd 
+__label__62315008 massive diarrhea 
+__label__51197009 stomach trouble, or cramps 
+__label__162076009 stomach gas 
+__label__21779011000036103 cortozone injections 
+__label__24184005 raised blood pressure 
+__label__309774006 weakness in my legs 
+__label__62315008 severe diarrhea 
+__label__3384011000036100 artrotec 
+__label__95891005 fluey feelings 
+__label__79890006 loss of appetite 
+__label__54981004 charlie horses 
+__label__250084002 muscle cramps in my calf muscles 
+__label__165247006 walking up the stairs was intolerable 
+__label__131148009 heavy bleeding 
+__label__271681002 stomich ake 
+__label__63102001 visual disturbances 
+__label__3424008 tachycardia 
+__label__25064002 severe sudden onset headache in the back of head 
+__label__698065002 severe acid reflux 
+__label__9991008 severe colon cramping 
+__label__34436003 urine is bloody 
+__label__57676002 very painful joints 
+__label__422400008 vomitting 
+__label__235856003 wrong with my liver 
+__label__37796009 worse migraines 
+__label__162076009 gi hemmorage 
+__label__162076009 gi distress 
+__label__230690007 strokes 
+__label__228158008 hobbling 
+__label__22298006 myocardial infarction 
+__label__77424011000036100 q10 
+__label__247640008 muddled thinking 
+__label__271681002 tummy pains 
+__label__68962001 sore 
+__label__228158008 it's a chore to just walk around 
+__label__449918009 severe leg muscle cramps 
+__label__8357008 no sex drive 
+__label__418290006 itchy hands 
+__label__309086004 tingling hands 
+__label__77435011000036104 vitimin c 
+__label__228158008 hardly walk 
+__label__55533009 forgetfulness 
+__label__77424011000036100 ubiquinol 
+__label__248274002 no energy 
+__label__3877011000036101 liptor 
+__label__267953003 sore leg joints 
+__label__248255005 unable to sleep 
+__label__26329005 trouble concentrating 
+__label__262286000 weight increased 
+__label__247323005 tightness of throat 
+__label__386705008 lightheadedness 
+__label__62507009 tingly 
+__label__22253000 sore 
+__label__13791008 weaker 
+__label__13791008 weakness 
+__label__34840004 tendonits 
+__label__166643006 liver enzymes were very elevated 
+__label__129565002 severe myopathy 
+__label__60119000 exhaustion 
+__label__21545007 tendons hurt 
+__label__102480002 severe upper body pain 
+__label__22253000 worse pain 
+__label__32914008 restlessness in my legs 
+__label__278040002 thining hair 
+__label__301345002 trouble sleeping 
+__label__161891005 sore back 
+__label__419723007 my head was foggy 
+__label__166892002 spike in my blood sugar 
+__label__86651002 resting pulse jumped to between 100 and 105 
+__label__247592009 working memory and short-term memory loss 
+__label__193462001 sleeplessness 
+__label__309774006 weaknesses in my legs 
+__label__267052005 windy 
+__label__282145008 unable to walk 
+__label__224960004 zombie like tired 
+__label__68962001 soreness of muscles 
+__label__162076009 gi difficulties 
+__label__26544005 weakened muscle 
+__label__449917004 thigh cramps 
+__label__228158008 limits my ability to walk 
+__label__386807006 problems with memory 
+__label__267032009 tired most of the time 
+__label__129565002 recks my muscles severly 
+__label__102556003 severe pain in arm 
+__label__386807006 truble remembering 
+__label__49218002 severe muscle pain in hip joints 
+__label__95891005 fluish feeling 
+__label__57676002 severe joint aches 
+__label__425423002 painful time lifting my own arm 
+__label__399153001 vertigo like symptons 
+__label__57676002 sore joints 
+__label__288939007 trouble swallowing 
+__label__228158008 trouble walking 
+__label__250084002 severn calf cramps 
+__label__10601006 pain/cramps in both my legs 
+__label__301676004 unable to get out of bed 
+__label__45352006 spazms 
+__label__3848011000036104 provachol 
+__label__449917004 spasms in leg muscles 
+__label__13791008 weak and wobbly unbalanced 
+__label__247592009 terrible short term memory problems 
+__label__77424011000036100 cq10 
+__label__70733008 restricted movement 
+__label__13791008 weak feeling 
+__label__55300003 severe cramps 
+__label__26544005 weak muscles 
+__label__282145008 not being able to walk 
+__label__68962001 unbearable muscle pain 
+__label__68962001 sore muscles 
+__label__367391008 malaisse 
+__label__419723007 not as smart as i use to be 
+__label__247640008 not be able to process thoughts 
+__label__13791008 week 
+__label__69896004 rhuematoid arthritis 
+__label__16386004 super dry skin 
+__label__78514002 thigh soreness 
+__label__271782001 sleepy 
+__label__84229001 very fatigued 
+__label__16973004 significant limp 
+__label__225609009 stiffness in my feet 
+__label__60238002 muscles quivering 
+__label__57676002 very sore and achy joints 
+__label__81680005 tremendous neck pain 
+__label__129565002 permanent muscle damage 
+__label__47933007 very painful feet 
+__label__68962001 very painful muscle aches in the neck 
+__label__161891005 very painful muscle aches back 
+__label__21522001 terrible abdominal pain 
+__label__301345002 sleep is not very sound 
+__label__47933007 pain on the sole of my feet 
+__label__82991003 whole body hurts 
+__label__40917007 very confused 
+__label__49049000 parkinsons 
+__label__248096004 sex drive gone 
+__label__267052005 wind 
+__label__55300003 severe muscle spasms in my legs 
+__label__45326000 sore shoulder 
+__label__84229001 severe fatigue 
+__label__29857009 pain in chest 
+__label__63102001 visual deficits 
+__label__367391008 malaise 
+__label__278040002 thinning hair 
+__label__54981004 charlie horse in my calves 
+__label__55300003 severe muscle cramps 
+__label__10601006 sore legs 
+__label__26079004 very shaky 
+__label__68962001 sore muscle 
+__label__68962001 sore weak muscles 
+__label__81680005 very sore neck 
+__label__82991003 pain all over my body 
+__label__45326000 soreness in shoulder 
+__label__60862001 tintinitus 
+__label__80449002 tired lower arms and legs muscel 
+__label__45326000 soreness in shoulders 
+__label__80449002 tired or burning muscles 
+__label__309538000 numbness in toes 
+__label__271832001 gas pains in back 
+__label__29857009 intense heart pain 
+__label__18963009 wild mood swings 
+__label__419723007 mind was starting to deteriorate 
+__label__80449002 tiredness in leg 
+__label__76948002 spikes of pain so severe 
+__label__81680005 sore neck 
+__label__102556003 sore arms 
+__label__22253000 soreness 
+__label__3723001 severe arthritis 
+__label__279038004 soreness in upper back 
+__label__238810007 slight flush 
+__label__162076009 get tired vry easily 
+__label__57676002 painful joints 
+__label__267949000 pain in shoulder joint 
+__label__286641001 uncharacteristical moodiness 
+__label__35489007 unwarranted depression 
+__label__36031001 severe burning of the feet 
+__label__386033004 severe neuropathy 
+__label__55300003 severe muscle spasms 
+__label__248277009 went down stamina 
+__label__26544005 went down muscles 
+__label__449917004 toe cramping 
+__label__26079004 tremors in right hand 
+__label__25064002 terrible headaches 
+__label__76948002 very bad pain 
+__label__288231001 soreness in calf muscles 
+__label__309521004 severe numbness in hand 
+__label__271587009 stiffness similar to arthritis 
+__label__250069006 tightness in legs 
+__label__250082003 serious cramping hands 
+__label__193462001 sleepless nites 
+__label__387603000 very off balance 
+__label__88092000 rhabdomyolysis/muscle loss 
+__label__298753001 numness aching feeling to my left arm 
+__label__55300003 severe muscle back cramp 
+__label__38341003 hypertension 
+__label__60862001 tinnitus in my left ear 
+__label__386807006 not able to remember things like whether i had done something or where i had placed something 
+__label__60032008 unable to concentrate 
+__label__309774006 weakness in thighs 
+__label__419723007 not as sharp mentally 
+__label__249913002 stiffness in both knees 
+__label__80313002 palpitations 
+__label__288230000 thighs muscle pain in the 
+__label__162352007 ringing in the ears (tinnitus) 
+__label__95891005 i felt like i always had the flu 
+__label__419723007 mentally weaker 
+__label__162076009 glossitis 
+__label__55300003 very severe cramps 
+__label__76948002 very severe pains 
+__label__10601006 shin pain 
+__label__418290006 very severe itching 
+__label__300954003 pain in the lower legs 
+__label__68962001 soreness in muscles 
+__label__62507009 weird toe tingling 
+__label__88092000 wasting of muscles 
+__label__247373008 terrible pains in ankle 
+__label__30989003 terrible pains in knee 
+__label__45326000 terrible pain in shoulders 
+__label__49218002 terrible pain in hips 
+__label__56265001 severe heart disease 
+__label__161891005 wicked back pain 
+__label__60238002 mussel twitches 
+__label__80449002 weariness of the leg muscles 
+__label__309774006 weakness in my arms 
+__label__224960004 very, very tired all the time 
+__label__21885011000036105 motrin 
+__label__387603000 problems with my balance 
+__label__90673000 throbbing,burning sensation 
+__label__62507009 tingly feeling in hands 
+__label__62507009 tingly feeling in scalp 
+__label__62507009 tingling toes 
+__label__247373008 terrible pain in my ankles 
+__label__47933007 terrible pain in my feet 
+__label__425423002 turning in bed is painful 
+__label__10601006 pains in legs 
+__label__44054006 type2 diabetes 
+__label__55300003 severe muscle cramping 
+__label__279039007 very painful muscle aches in lower back 
+__label__288231001 very painful muscle aches in calves 
+__label__88092000 noticible loss of muscle structure 
+__label__10601006 pains in his legs 
+__label__82991003 pain throughout my body 
+__label__57676002 severe joint pains 
+__label__271807003 strange poisen-ivy like rash on chest and breast 
+__label__68962001 terrible muscle pain 
+__label__68962001 very bad muscle pain 
+__label__161873000 my legs became lead 
+__label__30989003 very severe pain in knees 
+__label__53057004 very severe pain in hands 
+__label__102556003 very severe pain in arms 
+__label__267044007 impaired my ability to take long walks 
+__label__25064002 very bad headaches 
+__label__246636008 vision is so blurry 
+__label__246636008 very blurred vision 
+__label__3877011000036101 litpitor 
+__label__309537005 top outer thigh muscle starts to feel very warm, then get numb and lastly it starts to feel very cool (like the icy hot patch) 
+__label__404640003 occasional dizziness 
+__label__49218002 pains in hips 
+__label__277521002 not motivated to do anything 
+__label__277521002 no motivation 
+__label__68962001 sore cheek muscles 
+__label__246636008 very very blurry vision 
+__label__24199005 extreme agitation 
+__label__78514002 thighs sore 
+__label__102551008 toes went into muscle spasms 
+__label__26329005 thinking problems 
+__label__161891005 pains in my back 
+__label__288231001 slight muscle soreness in legs 
+__label__288228002 slight muscle soreness in arms 
+__label__47933007 sore feet 
+__label__49218002 pains in my hip 
+__label__246636008 very blurry eyesight 
+__label__249966004 twitching mouth 
+__label__60032008 unable to focus 
+__label__30989003 right knee always sore 
+__label__62315008 direar 
+__label__449917004 toe cramps 
+__label__30989003 sore knees 
+__label__288226003 very sore muscle pain in both shoulders 
+__label__8943002 wieght gain 
+__label__76948002 terribe pain 
+__label__45326000 very bad pains in shoulders 
+__label__53057004 very bad pains in hands 
+__label__77692006 only wanted to sleep 
+__label__84229001 severe fatigue in my body 
+__label__68962001 terrible, migratory joint pain all over my body 
+__label__213257006 quite ill 
+__label__47933007 right foot hurts 
+__label__30989003 right knee is so painful 
+__label__309774006 weakness in the calves 
+__label__279039007 tenderness in the lower back 
+__label__418363000 skin itching sensations all over body 
+__label__21242011000036102 sinivastatin 
+__label__278040002 thinning at the back and sides of my head 
+__label__68962001 very bad pain in my muscles 
+__label__10601006 pain in the legs 
+__label__26544005 when i went to sit down instead of sitng normaly i would almost fall down in the chair no control no strength, upon getting up i had to hold on to something to get up 
+__label__62315008 dioreaha 
+__label__162076009 gets tired a lot 
+__label__426206001 hideous constant pain 
+__label__309774006 weakness in upper arm muscles 
+__label__8357008 taking one's appetite for sex away 
+__label__309774006 weakness in my right arm 
+__label__44077006 numbness on left side 
+__label__404640003 slightly dizzy virtually all the time 
+__label__161891005 slight muscle aches in my back 
+__label__26544005 total muscel weakness 
+__label__302226006 toe neuropathy 
+__label__22298006 miocardial infarction 
+__label__67849003 pain was unbearable 
+__label__386806002 reduced mental capabiities 
+__label__300954003 severe pain in left leg 
+__label__77692006 sleep alot 
+__label__54981004 terrible charlie horses 
+__label__162076009 geting bad swets 
+__label__166830008 elevated levels of cholesterol 
+__label__23924001 weird tight feeling in chest cavity 
+__label__88092000 shrinking muscels neck 
+__label__88092000 shrinking muscels arms 
+__label__88092000 shrinking muscels leg 
+__label__35489007 very serious depression 
+__label__166717003 slightly elevated cpk 
+__label__285365001 toes painful 
+__label__426899007 walk was a very painful and a very slow 
+__label__129565002 problems with various muscles 
+__label__300954003 persistent pain in calf 
+__label__429783005 tingling in my legs 
+__label__62507009 very painful pins and needles over entire foot 
+__label__82991003 pains all over body 
+__label__248274002 no energy all day 
+__label__84229001 unexplained fatigue 
+__label__309539008 numbness in toes 
+__label__202882003 sore feet (faciitis) 
+__label__62507009 tingling sensation in the back of my neck 
+__label__166830008 elevated levels of high cholesterol 
+__label__8357008 sex drive has decreased 
+__label__449917004 terrible leg cramps 
+__label__301345002 sleep loss 
+__label__62507009 tingly hands 
+__label__68962001 terrible musche aches 
+__label__386807006 poor memory 
+__label__49218002 sore hip(tightit band) 
+__label__90673000 elbows would burn like fire 
+__label__2733002 right heel pain 
+__label__90673000 elbows burning 
+__label__26544005 weakness in muscles 
+__label__10601006 pain in their shins 
+__label__228158008 struggling walking too far 
+__label__74323005 pain in elbows 
+__label__230145002 hard to breathe 
+__label__24184005 rise in bp 
+__label__3080011000036109 tylonol 
+__label__203095000 spasms in my back 
+__label__49218002 pains through my hips 
+__label__162076009 genitals and lips excruciating 
+__label__422587007 wanted to vomit 
+__label__271807003 skin rash back of my neck 

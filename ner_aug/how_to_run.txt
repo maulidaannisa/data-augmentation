@@ -1,0 +1,1 @@
+python main_augment_conll.py --input "dataset/cadec/train_20.txt" --output "dataset/" --num_aug "3"
