@@ -101,6 +101,7 @@ def generate_mentions(sentence, labels):
     return mentions
 
 def generate_aug_sent(sentence, labels, aug_list, num_aug):
+  # print(aug_list)
   generated_aug_sentences = []
   for i in range(num_aug):
         generated_sentence = []
@@ -134,9 +135,10 @@ def generate_aug_sent(sentence, labels, aug_list, num_aug):
                 raise ValueError("unreachable line...")
 
         generated_aug_sentences.append(generated_sentence)
+        # add this to only insert one augmented text when augmented the surrounding augmented text
+        break
 
   return generated_aug_sentences
-
 
 def mention_replacement(sentence, labels, category2mentions, num_aug=3):
     generated_aug_sentences = []
@@ -235,7 +237,7 @@ def char_aug(sentence, labels):
   augmentor = RandAugment([
       en.add_misspelling,
       en.add_fat_thumbs,
-  ], n=2, m=30, shuffle=False)
+  ], n=2, m=10, shuffle=False)
 
   for m in mentions:
     augmented_texts = []
@@ -244,12 +246,15 @@ def char_aug(sentence, labels):
     phrase = ' '.join(m[1:]).lower()
 
     augmented_text = ocr_aug.augment(phrase)
-    augmented_texts.append(augmented_text)
+    if augmented_text:
+        augmented_texts.append(augmented_text[0])
+    else:
+        augmented_texts.append('')
 
     for tx in augmentor:
         augmented_text = tx(phrase)
         augmented_texts.append(augmented_text)
-
+    print(augmented_texts)
     aug_list.append(augmented_texts)
   
   generated_aug_sentences = generate_aug_sent(sentence, labels, aug_list, num_aug)
@@ -261,7 +266,7 @@ def word_aug(sentence, labels):
   aug_list = []
 
   # we have 4 different word augmentation
-  num_aug = 4
+  num_aug = 3
   augmentor = RandAugment([
       en.add_synonyms,
       en.add_hyponyms,
@@ -288,6 +293,7 @@ def word_aug(sentence, labels):
         augmented_texts.append(augmented_text)
 
     aug_list.append(augmented_texts)
+    # print(aug_list)
   
   generated_aug_sentences = generate_aug_sent(sentence, labels, aug_list, num_aug)
 

@@ -5,7 +5,7 @@ class DrugAug():
 	def __init__(self):
 		self.drug_map = {}
 
-		DRUG_PATH = "PATH_TO/drugs_dict.json"
+		DRUG_PATH = "/Users/annisaningtyas/Documents/GitHub/data-augmentation/resource/drugs_dict.json"
 		self.__build_drug_map(DRUG_PATH)
 
 	def __map_drug(self, key, value):

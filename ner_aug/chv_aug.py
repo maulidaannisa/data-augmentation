@@ -9,7 +9,7 @@ class ChvAug():
         self.__build_chv_map()
 
     def __build_chv_map(self):
-        res_folder = "PATH_TO"
+        res_folder = "/Users/annisaningtyas/Documents/GitHub/data-augmentation/resource/"
 
         # format 1
         filepath = res_folder + "CHV-amia14-data.tsv"
